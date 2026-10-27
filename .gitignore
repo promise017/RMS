@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Local database and uploaded files
+db.sqlite3
+media/
+
+# Frontend
+Frontend/node_modules/
+Frontend/.next/
